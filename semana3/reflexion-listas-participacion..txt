@@ -1,8 +1,8 @@
 Reflexión sobre listas y participación – Semana 3 Día 4
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Andres Villanueva
+Fecha:20/06/2026
+Nombre de la rama: andres_villanueva
 
 Escribe una reflexión de 6 a 8 líneas respondiendo:
 
@@ -18,4 +18,10 @@ En tu respuesta menciona al menos dos de estas ideas:
 - confianza
 - lenguaje claro
 
-Respuesta:
+Respuesta: Es importante organizar la información comunitaria en listas claras, revisables y 
+fáciles de entender porque facilita la claridad de la información y permite que todas las 
+personas comprendan lo que se está compartiendo sin confusiones. Esto también fortalece 
+la participación ciudadana, ya que más personas pueden involucrarse si entienden bien los 
+datos o propuestas. Además, contribuye a la transparencia y ayuda a la prevención de desinformación, 
+porque la información organizada es más fácil de verificar y seguir de forma correcta 
+dentro de la comunidad.

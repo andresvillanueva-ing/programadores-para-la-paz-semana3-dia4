@@ -2,7 +2,8 @@ const actividades = [
     "Revisar propuestas recibidas",
     "Confirmar fuentes de información",
     "Publicar mensajes claros",
-    "Hacer seguimiento a compromisos"
+    "Hacer seguimiento a compromisos",
+    "organizar proxima reunion comunitaria"
   ]
   
   console.log("Resumen de actividades comunitarias con for tradicional:")

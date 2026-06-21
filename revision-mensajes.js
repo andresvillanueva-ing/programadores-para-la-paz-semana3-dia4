@@ -2,7 +2,8 @@ const mensajes = [
     "Invitación a reunión comunitaria",
     "Aviso sin fecha confirmada",
     "Convocatoria con lugar y hora definidos",
-    "Mensaje que debe revisarse antes de publicar"
+    "Mensaje que debe revisarse antes de publicar",
+    "Anuncio de eventos comunitarios proximos"
   ]
   
 console.log("Revisión de mensajes comunitarios con for tradicional:")
