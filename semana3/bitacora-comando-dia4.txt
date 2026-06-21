@@ -11,7 +11,7 @@ Escribe los comandos que usaste durante la práctica.
 
 1. Comando usado para clonar el repositorio:
 
-Respuesta: git clone https://github.com/andresvillanueva-ing/programadores-para-la-paz-semana3-dia2.git
+Respuesta: git clone https://github.com/andresvillanueva-ing/programadores-para-la-paz-semana3-dia4.git
 
 2. Comando usado para entrar a la carpeta del proyecto:
 
@@ -52,18 +52,18 @@ Respuesta:node revision-fuentes.js
 
 Respuesta: node resumen-comunitario.js
 
-9. Comando usado para revisar cambios en Git:
+12. Comando usado para revisar cambios en Git:
 
 Respuesta: git status
 
-10. Comando usado para agregar cambios:
+13. Comando usado para agregar cambios:
 
 Respuesta: git add .
 
-11. Comando usado para crear commit:
+14. Comando usado para crear commit:
 
 Respuesta: git commit -m "Arrays for y for of en JavaScript semana 3 dia 4"
 
-12. Comando usado para publicar la rama:
+15. Comando usado para publicar la rama:
 
 Respuesta: git push -u origin andres_villanueva
